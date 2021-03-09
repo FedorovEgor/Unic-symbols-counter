@@ -1,2 +1,2 @@
-# Task5
-Char counter
+# Task 5 - char-counter
+
